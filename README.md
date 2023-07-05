@@ -61,7 +61,7 @@ Ensuite, pour préparer notre projet, on va rédiger les user stories :tada: !
 
 - se baser sur la liste des fonctionnalités pour les rédiger
 - s'appuyer sur le [fichier d'exemple fourni](./user-stories.md)
-- profiter de [la fiche récap](https://github.com/O-clock-Alumni/fiches-recap/blob/master/gestion-projet/user-stories.md) :bulb:
+- profiter de [la fiche récap](assets/docs/aide/gestion-projet/user-stories.md) :bulb:
 
 
 Vous pouvez rédiger vos _stories_ dans un fichier markdown, par exemple sous forme d'un tableau :+1:
